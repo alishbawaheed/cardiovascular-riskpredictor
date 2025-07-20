@@ -68,15 +68,30 @@ python cardiovascular risk predictor.py
 
 
 ## 💡 Usage
-Enter Patient Info: Input age, cholesterol level, and lifestyle habits (smoking, alcohol).
-Select Disease(s): Choose one or more cardiovascular-related diseases with known DNA mutation data.
-Input DNA Mutations: Paste DNA sequences to check for mutation presence.
-Calculate Risk: Click the Calculate Risk button to compute a risk score (out of 10).
-View Results: A bar chart will show the contribution of each risk factor, and the app will display the estimated cardiovascular risk percentage
+1. Enter Patient Info:
+   - Input age
+   - Cholesterol level
+   - Lifestyle habits (e.g., smoking, alcohol consumption)
+
+2. Select Disease(s):
+   - Choose one or more cardiovascular-related diseases
+   - Uses known DNA mutation data
+
+3. Input DNA Mutations:
+   - Paste DNA sequences to check for mutation presence
+
+4. Calculate Risk:
+   - Click the “Calculate Risk” button
+   - App computes a risk score (out of 10)
+
+5. View Results:
+   - A bar chart displays the contribution of each risk factor
+   - Final cardiovascular risk percentage is shown
+
 
 
 ## Technologies Used
-Python 3.x
-Tkinter – for GUI development
-Matplotlib – for visualizing risk contributions
-VS Code – Recommended IDE
+🐍 Python 3.x – Core language  
+🖼️ Tkinter – For GUI development  
+📊 Matplotlib – For visualizing risk contributions  
+🧠 VS Code – Recommended IDE for development  
