@@ -21,10 +21,14 @@ A Python GUI application that predicts **cardiovascular risk** using patient lif
 
 ---
 
-## Screenshots
-GUI Interface
+## 📸 Screenshots
 
-Bar Chart Output
+### 🧭 GUI Interface
+![GUI Screenshot](gui.png)
+
+### 📊 Graphical Output
+![Graph Screenshot](graph.png)
+
 
 ## 🚀 Getting Started
 Prerequisites
