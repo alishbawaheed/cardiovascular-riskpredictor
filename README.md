@@ -61,11 +61,10 @@ python cardiovascular risk predictor.py
 
 ## 📁 Project Structure
 
-cardiovascular-riskpredictor/
-│
-├── cardiovascular risk predictor.py # Main GUI application
-├── README.md # Project documentation
-├── .venv/ # Virtual environment (optional)
+📁 cardiovascular-riskpredictor  
+├── 📄 cardiovascular risk predictor.py  – Main GUI application  
+├── 📄 README.md – Project documentation  
+└── 📁 .venv – Virtual environment (optional)  
 
 
 ## 💡 Usage
